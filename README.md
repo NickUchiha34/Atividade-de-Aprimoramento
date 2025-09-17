@@ -1,4 +1,4 @@
-# Header com Navegação e Busca - EcoFlow Admin
+# Header com Navegação e Busca
 
 ## Funcionalidades Implementadas
 - Header responsivo com navegação por seções  
